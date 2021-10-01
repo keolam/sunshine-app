@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sunshine-app/static/css/main.9ef17f5e.chunk.css",
+    "main.js": "/sunshine-app/static/js/main.99fa09ce.chunk.js",
+    "main.js.map": "/sunshine-app/static/js/main.99fa09ce.chunk.js.map",
+    "runtime-main.js": "/sunshine-app/static/js/runtime-main.a3c57a6b.js",
+    "runtime-main.js.map": "/sunshine-app/static/js/runtime-main.a3c57a6b.js.map",
+    "static/css/2.f2512455.chunk.css": "/sunshine-app/static/css/2.f2512455.chunk.css",
+    "static/js/2.1d82edd6.chunk.js": "/sunshine-app/static/js/2.1d82edd6.chunk.js",
+    "static/js/2.1d82edd6.chunk.js.map": "/sunshine-app/static/js/2.1d82edd6.chunk.js.map",
+    "index.html": "/sunshine-app/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/sunshine-app/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.9ef17f5e.chunk.css.map": "/sunshine-app/static/css/main.9ef17f5e.chunk.css.map",
+    "static/js/2.1d82edd6.chunk.js.LICENSE.txt": "/sunshine-app/static/js/2.1d82edd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3c57a6b.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.1d82edd6.chunk.js",
+    "static/css/main.9ef17f5e.chunk.css",
+    "static/js/main.99fa09ce.chunk.js"
+  ]
+}
